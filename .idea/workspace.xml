@@ -219,7 +219,7 @@
   <component name="RunManager" selected="Application.Offer04_FindNumIn2DArray">
     <configuration name="Offer03_FindRepeatNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neu.edu.vellichor.Offer03_FindRepeatNum" />
-      <module name="offer" />
+      <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="neu.edu.vellichor.*" />
@@ -232,7 +232,7 @@
     </configuration>
     <configuration name="Offer04_FindNumIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neu.edu.vellichor.Offer04_FindNumIn2DArray" />
-      <module name="offer" />
+      <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="neu.edu.vellichor.*" />
@@ -245,7 +245,7 @@
     </configuration>
     <configuration name="Question49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackhu.Question49" />
-      <module name="offer" />
+      <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hackhu.*" />
@@ -258,7 +258,7 @@
     </configuration>
     <configuration name="Question66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackhu.Question66" />
-      <module name="offer" />
+      <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hackhu.*" />
@@ -271,7 +271,7 @@
     </configuration>
     <configuration name="Question67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackhu.Question67" />
-      <module name="offer" />
+      <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hackhu.*" />
