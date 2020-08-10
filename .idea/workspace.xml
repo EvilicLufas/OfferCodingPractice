@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="365f291f-a1fc-480e-a8bd-bb279daafdaa" name="Default Changelist" comment="update offer-05-StringReplace with 1 solution (StringBuilder &amp; char/Character &amp; string.toCharArray)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/Offer06_ReversePrintLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/Offer06_ReversePrintLinkedList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,15 +33,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-              <folding>
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="193">
+              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="62" selection-start-line="62" selection-end-line="73" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -134,8 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question32.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question33.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question34.java" />
@@ -185,6 +200,8 @@
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer07_BuildTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer07_S3_BuildTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java" />
       </list>
     </option>
   </component>
@@ -232,8 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer06_ReversePrintLinkedList">
+  <component name="RunManager" selected="Application.Offer10_Fib">
     <configuration name="Offer03_FindRepeatNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neu.edu.vellichor.Offer03_FindRepeatNum" />
       <module name="OfferCodingPractice" />
@@ -383,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackhu.Question49" />
+    <configuration name="Offer10_Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neu.edu.vellichor.Offer10_Fib" />
       <module name="OfferCodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackhu.*" />
+          <option name="PATTERN" value="neu.edu.vellichor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,11 +415,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer10_Fib" />
         <item itemvalue="Application.Offer06_ReversePrintLinkedList" />
         <item itemvalue="Application.Offer05_StringReplace" />
         <item itemvalue="Application.Offer04_FindNumIn2DArray" />
         <item itemvalue="Application.Offer03_FindRepeatNum" />
-        <item itemvalue="Application.Question49" />
       </list>
     </recent_temporary>
   </component>
@@ -438,6 +455,7 @@
       <workItem from="1596956051004" duration="5071000" />
       <workItem from="1596984228146" duration="2791000" />
       <workItem from="1597047041925" duration="1925000" />
+      <workItem from="1597065790635" duration="5571000" />
     </task>
     <task id="LOCAL-00001" summary="update offer-03-AddRepeatNum with 2 solution (hashSet &amp; tempInt[] for index)">
       <created>1596732704910</created>
@@ -464,12 +482,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235012000" />
+    <option name="totallyTimeSpent" value="240583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31112793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20514761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -478,7 +497,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925585" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977029" weight="0.041666668" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49659348" visible="true" weight="0.18156809" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30682978" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,7 +506,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32925585" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5022971" side_tool="true" visible="true" weight="0.041265473" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5034065" side_tool="true" visible="true" weight="0.18156809" />
       <window_info anchor="bottom" id="Statistic" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -568,24 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackhu/Question48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackhu/Question53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackhu/Question54.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1449">
@@ -948,12 +949,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-          <folding>
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="193">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="62" selection-start-line="62" selection-end-line="73" selection-end-column="5" />
         </state>
       </provider>
     </entry>
