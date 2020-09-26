@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="365f291f-a1fc-480e-a8bd-bb279daafdaa" name="Default Changelist" comment="update offer-05-StringReplace with 1 solution (StringBuilder &amp; char/Character &amp; string.toCharArray)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer11_minArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/Offer06_ReversePrintLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/neu/edu/vellichor/Offer06_ReversePrintLinkedList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,22 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer07_BuildTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2214">
-              <caret line="85" selection-start-line="85" selection-end-line="123" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="2322">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -45,17 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="513">
               <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="62" selection-start-line="62" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer11_minArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -151,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question33.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question34.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackhu/Question35.java" />
@@ -202,8 +195,15 @@
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java" />
         <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer11_minArray.java" />
       </list>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -238,8 +238,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
-    <option name="width" value="2762" />
-    <option name="height" value="1770" />
+    <option name="width" value="1390" />
+    <option name="height" value="1756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -249,8 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,37 +282,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vellichor" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OfferCodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfferCodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vellichor" type="462c0819:PsiDirectoryNode" />
-              <item name="Offer06_ReversePrintLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="OfferCodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfferCodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vellichor" type="462c0819:PsiDirectoryNode" />
-              <item name="Offer07_BuildTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="OfferCodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OfferCodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vellichor" type="462c0819:PsiDirectoryNode" />
-              <item name="Offer09_CQueue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,13 +295,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565847296296" />
+    <property name="last_opened_file_path" value="C:/A-MicroSD/学习/大四上/大数据技术-凌棕/mahoutProject/MovieSite/movie" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -456,6 +430,12 @@
       <workItem from="1596984228146" duration="2791000" />
       <workItem from="1597047041925" duration="1925000" />
       <workItem from="1597065790635" duration="5571000" />
+      <workItem from="1597134650620" duration="2050000" />
+      <workItem from="1599841819265" duration="1292000" />
+      <workItem from="1599893464332" duration="1261000" />
+      <workItem from="1599901180937" duration="690000" />
+      <workItem from="1599986586207" duration="1537000" />
+      <workItem from="1601101626315" duration="5923000" />
     </task>
     <task id="LOCAL-00001" summary="update offer-03-AddRepeatNum with 2 solution (hashSet &amp; tempInt[] for index)">
       <created>1596732704910</created>
@@ -482,13 +462,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240583000" />
+    <option name="totallyTimeSpent" value="253336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20514761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.022710068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -497,7 +476,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925585" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49659348" visible="true" weight="0.18156809" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49659348" weight="0.18156809" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30682978" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,7 +485,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32925585" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5034065" side_tool="true" visible="true" weight="0.18156809" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5034065" side_tool="true" visible="true" weight="0.21045393" />
       <window_info anchor="bottom" id="Statistic" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -587,13 +566,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackhu/Question54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackhu/Question55.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -895,6 +867,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer07_S3_BuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -947,24 +933,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer09_CQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_Fib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer10_II_NumWays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="62" selection-start-line="62" selection-end-line="73" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/neu/edu/vellichor/Offer11_minArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
     </entry>
